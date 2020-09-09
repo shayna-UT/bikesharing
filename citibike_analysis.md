@@ -46,7 +46,7 @@ The "Bike Repairs" treemap displays each Bike Id, and the larger and darker tile
 
 The best time to complete the maintenance on the bikes needs to be considered as well. Looking at the "August Peak Hours", it can be observed that 2:00 am to 5:00 am would be a good time for bike maintenance since the number of trips recorded during this time frame is much lower compared to others. For example, 5:00 pm to 7:00 pm are top riding hours during August in NYC, therefore it would negatively impact the business to prevent trips by performing maintenance at these hours. 
 
-## Des Moines and New York City Demographics
+### Des Moines and New York City Demographics
 
 Now that the original questions for understanding how bikesharing works in New York City have been reviewed, let's take a look at how this will apply to Des Moines. 
 
@@ -54,7 +54,7 @@ The gender diversity of Des Moines needs to be considered since the majority of 
 
 Additional metrics have also been considered when comparing New York City and Des Moines as well, particularly age groups. Des Moines has a similar age breakdown compared to New York City, in that the majority of the population are between the ages of 18 and 64. Refering again to the "Average Trip Duration", the average trip duration steadily increases, in general, from having a birth year in 1965 to 2003. This trend falls within the range for people from 17 to 65 years of age, which is similar to the city's largest age group. 
 
-## Additional Considerations
+### Additional Considerations
 
 Overall, there is a lot of potential for a successful bikesharing business in Des Moines. I still, however, recommend performing additional research on the following questions:
 
@@ -66,7 +66,7 @@ QUESTIONS:
 (2) How many square miles will the bike stations cover? And, how many bike stations will there be?
 - Keeping in mind that the average bike trip duration in New York City is about 18 minutes, it is important to start considering how for apart each bike station will be located from one another. Also, based on popular attractions and where the bike will be most utilized, the area where the bikesharing service will be provided within needs consideration as well.
 
-## Tableau Public link
+### Tableau Public link
 <https://public.tableau.com/profile/shayna2477#!/vizhome/bikesharing_15996439905750/CitiBikeProposal>
 
 
