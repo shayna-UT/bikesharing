@@ -9,12 +9,19 @@ A Citi Bike Proposal has been made to propose a similar bikesharing business in 
 Since August is the most beautiful time of the year to rent a bike, August Citi Bike data has been analyzed to better understand how biksharing works in New York City. The following questions will be answered throughout in order to bring insight into a Des Moines bikesharing business. 
 
 QUESTIONS:
+
 (1) How many bike trips were recorded during the month of August?
+
 (2) What is the breakdown of annual subscribers vs. short-term customers?
+
 (3) What is the breakdown of male vs. female users?
+
 (4) What are the highest traffic locations? 
+
 (5) How many trips per bike were taken during the month of August?
+
 (6) How much is each bike being utilized based on cumulative trip duration?
+
 (7) What are the peak hours for bike rentals?
 
 ### Citi Bike User Information
@@ -52,8 +59,10 @@ Additional metrics have also been considered when comparing New York City and De
 Overall, there is a lot of potential for a successful bikesharing business in Des Moines. I still, however, recommend performing additional research on the following questions:
 
 QUESTIONS:
+
 (1) What are the top attractions in Des Moines and where are they located? 
 - Based on the top starting and ending locations, the most popular stations are located either near a popular public transportation hub or tourist attraction. The wide variety of popular destinations in Des Moines make it a good candidate for a bikesharing service. Specifically, there is a large emphasis on outdoor activities such as popular trails and parks. There may be a potential market in providing bike services not only in the main city for historical, food/ drink, art, and event related activities, but also near trailheads as well. 
+
 (2) How many square miles will the bike stations cover? And, how many bike stations will there be?
 - Keeping in mind that the average bike trip duration in New York City is about 18 minutes, it is important to start considering how for apart each bike station will be located from one another. Also, based on popular attractions and where the bike will be most utilized, the area where the bikesharing service will be provided within needs consideration as well.
 
